@@ -7,6 +7,8 @@
 
 ### Java基础
 
+[什么是注解以及注解的作用？](https://blog.csdn.net/briblue/article/details/73824058)
+
 [轻松学，Java中的代理模式及动态代理](https://blog.csdn.net/briblue/article/details/73928350)
 
 ### Java虚拟机
