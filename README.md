@@ -15,6 +15,10 @@
 
 [全网把Map中的hash()分析的最透彻的文章，别无二家。](https://mp.weixin.qq.com/s/qCHkzs4JPOipB-ZzqrfbeQ?)
 
+[Java8系列之重新认识HashMap](http://www.importnew.com/20386.html)
+
+[HashMap 和 HashTable 到底哪不同 ？](http://www.importnew.com/24822.html)
+
 ### Java虚拟机
 
 [深入理解Java虚拟机到底是什么](https://blog.csdn.net/zhangjg_blog/article/details/20380971)
