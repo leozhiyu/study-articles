@@ -7,13 +7,19 @@
 
 ### Java基础
 
+[深入解析String#intern](http://www.importnew.com/14142.html)
+
 [什么是注解以及注解的作用？](https://blog.csdn.net/briblue/article/details/73824058)
 
 [轻松学，Java中的代理模式及动态代理](https://blog.csdn.net/briblue/article/details/73928350)
 
+[全网把Map中的hash()分析的最透彻的文章，别无二家。](https://mp.weixin.qq.com/s/qCHkzs4JPOipB-ZzqrfbeQ?)
+
 ### Java虚拟机
 
 [深入理解Java虚拟机到底是什么](https://blog.csdn.net/zhangjg_blog/article/details/20380971)
+
+[一看你就懂，超详细java中的ClassLoader详解 ](https://blog.csdn.net/briblue/article/details/54973413)
 
 ### Spring框架相关
 
