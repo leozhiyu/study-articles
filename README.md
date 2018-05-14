@@ -7,6 +7,8 @@
 
 ### Java基础
 
+[从一道面试题彻底搞懂hashCode与equals的作用与区别及应当注意的细节 ](https://blog.csdn.net/haobaworenle/article/details/53819838)
+
 [深入解析String#intern](http://www.importnew.com/14142.html)
 
 [什么是注解以及注解的作用？](https://blog.csdn.net/briblue/article/details/73824058)
